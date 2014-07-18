@@ -20,6 +20,5 @@
   },
   "_source": "git://github.com/bradbirdsall/Swipe.git",
   "_target": "~2.0.0",
-  "_originalSource": "swipe",
-  "_direct": true
+  "_originalSource": "swipe"
 }
